@@ -1,0 +1,15 @@
+IF applied, will actually insert solutions
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   foundations/01-css-methods/External CSS.css
+#	new file:   foundations/01-css-methods/Inline CSS.html
+#	new file:   foundations/01-css-methods/Internal CSS.html
+#	new file:   foundations/02-class-id-selectors/Solution.html
+#	new file:   foundations/03-grouping-selectors/Solution.html
+#
